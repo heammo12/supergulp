@@ -1,0 +1,19 @@
+{
+  "name": "supergulp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/heammo12/supergulp.git",
+  "author": "heammo12 <heammo12@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "@babel/register": "^7.15.3",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0"
+  }
+}
